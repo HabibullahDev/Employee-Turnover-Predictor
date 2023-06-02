@@ -1,0 +1,3 @@
+C:\Users\Rehan\Desktop\Data science & ML\HR Churn Prediction Project-2\obj\x86\Debug\HR Churn.vbproj.AssemblyReference.cache
+C:\Users\Rehan\Desktop\Data science & ML\HR Churn Prediction Project-2\obj\x86\Debug\HR Churn.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Rehan\Desktop\Data science & ML\HR Churn Prediction Project-2\obj\x86\Debug\HR Churn.vbproj.CoreCompileInputs.cache
